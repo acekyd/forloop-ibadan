@@ -1,0 +1,1 @@
+To contribute to this repo, please create a new file with your name in the `contributions` folder e.g acekyd.html
